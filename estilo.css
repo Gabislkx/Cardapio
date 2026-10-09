@@ -1,0 +1,61 @@
+body { 
+  background-color: #52796f;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.logo {
+  background-image: url("https://static.vecteezy.com/ti/fotos-gratis/p1/1990589-planta-verde-folhas-na-natureza-gratis-foto.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #cad2c5;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid-prod {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.produto {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 15px;
+  background-color: #354f52;
+  padding: 15px;
+  border-radius: 8px;
+  color: #cad2c5;
+}
+
+.imgprod {
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+
+.red{
+    color: red;
+}
+
+.dir{
+  display: flex;
+flex-direction: row;
+align-items: end
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+}
+
+.tam{
+width: 300px;
+height: 200px;
+}
