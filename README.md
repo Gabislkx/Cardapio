@@ -1,7 +1,7 @@
 # Cardapio
 
 ### Descrição
-Site de cardápio ilustrativo usando  HTML5 e CSS3.
+Site de cardápio ilustrativo usando  HTML5 e CSS3, uma simulação de cardápio para empresas, onde mostra.
 
 ---
 
